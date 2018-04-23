@@ -4,12 +4,12 @@
 
     
   <url>
-    <loc>http://road037019.github.io/2018/04/22/my%20first%20blog/</loc>
-    <lastmod>2018-04-23T02:24:03.677Z</lastmod>
+    <loc>http://road037019.github.io/2018/04/23/my%20first%20blog/</loc>
+    <lastmod>2018-04-23T02:48:03.922Z</lastmod>
     <data>
         <display>
         <title>自建博客初体验</title>
-        <pubTime>2018-04-22T12:02:15.329Z</pubTime>
+        <pubTime>2018-04-23T02:48:03.922Z</pubTime>
         
         <tag>hexo</tag>
          
@@ -23,14 +23,13 @@
     </url>
 
     
-    
   <url>
-    <loc>http://road037019.github.io/2018/04/22/hello-world/</loc>
-    <lastmod>2018-04-22T12:02:15.329Z</lastmod>
+    <loc>http://road037019.github.io/2018/04/23/hello-world/</loc>
+    <lastmod>2018-04-23T02:48:03.922Z</lastmod>
     <data>
         <display>
         <title>Hello World</title>
-        <pubTime>2018-04-22T12:02:15.329Z</pubTime>
+        <pubTime>2018-04-23T02:48:03.922Z</pubTime>
         
         <tag>hexo</tag>
          
@@ -43,4 +42,5 @@
     </data>
     </url>
 
+    
 </urlset>
