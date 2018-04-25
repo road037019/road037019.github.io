@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://road037019.github.io/"/>
-  <updated>2018-04-23T03:23:06.891Z</updated>
+  <updated>2018-04-25T07:39:01.700Z</updated>
   <id>http://road037019.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://road037019.github.io/2018/04/25/vim%E9%BC%A0%E6%A0%87%E6%97%A0%E6%B3%95%E4%B8%8B%E6%BB%91/"/>
+    <id>http://road037019.github.io/2018/04/25/vim鼠标无法下滑/</id>
+    <published>2018-04-25T07:29:01.871Z</published>
+    <updated>2018-04-25T07:39:01.700Z</updated>
+    
+    <content type="html"><![CDATA[<hr><p>title：vim鼠标无法下滑</p><h2 id="category：vim使用技巧"><a href="#category：vim使用技巧" class="headerlink" title="category：vim使用技巧"></a>category：vim使用技巧</h2><h1 id="问题产生"><a href="#问题产生" class="headerlink" title="问题产生"></a>问题产生</h1><p>最近最然发现，D服务器下使用vim，并且设置：set mouse=a之后，发现鼠标可以上滑，但是不能下滑，真是奇了怪了。</p><h1 id="问题排查"><a href="#问题排查" class="headerlink" title="问题排查"></a>问题排查</h1><p>首先硬件问题，我换了个鼠标，还是不行！<br>然后从自身找原因，是不是我用户主目录下的.vimrc文件设置的有问题？比方说某些地方有语法错误，但是我看了半天，也没看出什么错误来，为了证明不是我的原因，我切换到root目录，然后切换到涛哥的家目录，发现他的目录下的情况和我一样。<br>那是系统的vim设置出了问题？我切换到root目录，随便找了文件测试了一下，发现还真的是，root用户下<strong>同样的问题</strong>，那基本可以证明那就是系统的问题了。<br>当然，我甚至还突发奇想的认为，可能是D服务器的鼠标方向键的上键被按住了，但是事实是，只有在vim模式下才滑不动，在，在查看目录时是可以上下滑动的，也就是说肯定是<strong>vim自身的问题</strong></p><h1 id="问题的解决"><a href="#问题的解决" class="headerlink" title="问题的解决"></a>问题的解决</h1><p>额，其实问题没解决，打算找个机会问下师兄，这儿只是记录一下，当然也看一下我强迫症的本性能坚持多长时间不去想这个问题。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;hr&gt;
+&lt;p&gt;title：vim鼠标无法下滑&lt;/p&gt;
+&lt;h2 id=&quot;category：vim使用技巧&quot;&gt;&lt;a href=&quot;#category：vim使用技巧&quot; class=&quot;headerlink&quot; title=&quot;category：vim使用技巧&quot;&gt;&lt;/a&gt;category：v
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>自建博客初体验</title>
